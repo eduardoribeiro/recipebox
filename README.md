@@ -17,3 +17,4 @@ npm start
 ```
 Now you can see the webapp at `http://0.0.0.0:3000`.
 
+Enjoy!
